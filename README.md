@@ -10,13 +10,7 @@
 *   **Побочные эффекты:** Повышенная токсичность в дискуссиях о фреймворках ⚠️, сменяющаяся неконтролируемыми приступами желания помочь коллегам 🤝. *"Я не злой, у меня просто обгорели пропсы!"*
 *   **Прогноз:** Сомнительный. Зависит от частоты обновлений npm и количества кофеина в крови.
 
-**Текущие показатели жизнедеятельности:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obscureita)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObscureIta&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0+%D0%9F%D0%B0%D1%86%D0%B8%D0%B5%D0%BD%D1%82%D0%B0)](https://github.com/anuraghazra/github-readme-stats)
-
-**Терапия (Любимые Технологии):**
+**Терапия (Используемые технологии):**
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,,webpack,vite,git,figma&perline=6)](https://skillicons.dev)
 
 **Рецепт:**
