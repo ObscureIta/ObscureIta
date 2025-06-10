@@ -11,7 +11,7 @@
 *   **Прогноз:** Сомнительный. Зависит от частоты обновлений npm и количества кофеина в крови.
 
 **Терапия (Используемые технологии):**
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,,webpack,vite,git,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,,webpack,vite,git,figma&perline=15)](https://skillicons.dev)
 
 **Рецепт:**
 1.  `git clone` мой код.
