@@ -17,7 +17,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObscureIta&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0+%D0%9F%D0%B0%D1%86%D0%B8%D0%B5%D0%BD%D1%82%D0%B0)](https://github.com/anuraghazra/github-readme-stats)
 
 **Терапия (Любимые Технологии):**
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,tailwind,webpack,vite,git,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,,webpack,vite,git,figma&perline=6)](https://skillicons.dev)
 
 **Рецепт:**
 1.  `git clone` мой код.
